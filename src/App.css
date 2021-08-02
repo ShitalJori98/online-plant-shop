@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-black {
+  background: transparent;
+  text-transform: capitalize;
+  font-size: 0.8rem !important;
+  border-radius: 0 !important;
+  border: 0.1rem solid black;
+}
+.btn-black:hover {
+  background: black !important;
+  color: white !important;
+}
+.remove-icon{
+  background: transparent;
+}
